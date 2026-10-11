@@ -240,4 +240,4 @@ This repository serves as the official landing page for Gothic 3. The software i
 **Get the most recent version of Gothic 3 today!**
 
 ---
-**Last updated:** 2026-10-11 05:19:17 UTC
+**Last updated:** 2026-10-11 12:32:03 UTC
